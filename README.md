@@ -7,9 +7,9 @@ library(readr)
 
 #Last inn data ved bruk av URL
 
-url <- "https://raw.githubusercontent.com/Heppyo/Sok-2013_data/main/final_data.csv"
-
-#Importer data inn i R
+# Datasett til Oppgave 1
+url <- "https://raw.githubusercontent.com/uit-sok-2013-h23/Data_Arbeidskrav_1/main/datasett1.csv"
 data <- read.csv(url)
 
-# Datasettet er ikke nødvendigvis fullstendig før 11/09/2023
+# Datasett til Oppgave 2
+Kommer i løpet av dagen
