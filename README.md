@@ -15,4 +15,4 @@ data <- read.csv(url)
 # Datasett til Oppgave 2
 url <- "https://raw.githubusercontent.com/uit-sok-2013-h23/Data_Arbeidskrav_1/main/datasett2.csv"
 
-data <- read.csv(url)
+data2 <- read.csv(url)
