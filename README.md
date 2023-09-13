@@ -13,4 +13,6 @@ url <- "https://raw.githubusercontent.com/uit-sok-2013-h23/Data_Arbeidskrav_1/ma
 data <- read.csv(url)
 
 # Datasett til Oppgave 2
-Kommer i løpet av dagen
+url <- "https://raw.githubusercontent.com/uit-sok-2013-h23/Data_Arbeidskrav_1/main/datasett2.csv"
+
+data <- read.csv(url)
