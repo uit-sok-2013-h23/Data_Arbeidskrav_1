@@ -3,6 +3,7 @@
 # Hvordan laste inn dataen:
 
 #Last ned nødvendig pakke
+
 library(readr)
 
 #Last inn data ved bruk av URL
